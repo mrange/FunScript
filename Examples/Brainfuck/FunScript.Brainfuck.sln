@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunScript.Brainfuck", "FunScript.Brainfuck.Logic\FunScript.Brainfuck.Logic.fsproj", "{7DF4263D-AD55-4C6A-9998-054E210A2EF6}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunScript.Brainfuck.Logic", "FunScript.Brainfuck.Logic\FunScript.Brainfuck.Logic.fsproj", "{7DF4263D-AD55-4C6A-9998-054E210A2EF6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunScript.Brainfuck.Website", "FunScript.Brainfuck.Website\FunScript.Brainfuck.Website.csproj", "{FA9A7393-4CCC-41B7-B001-6DE963EBC2CC}"
 EndProject
